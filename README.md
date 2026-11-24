@@ -2,6 +2,10 @@
 
 A complete 3D survival adventure project for Godot 4.4+
 
+## Developer
+
+Developed by Hycintha
+
 ## Run
 1. Open this folder in Godot 4.
 2. Open `scenes/main/main.tscn` and press F6/F5.
